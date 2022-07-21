@@ -3,6 +3,8 @@
 </p>
 <h1 align=center>@tudo75</h1>
 
+## vcs-creator
+[![vcs-creator](https://github-readme-stats.vercel.app/api/pin/?username=tudo75&theme=darcula&repo=vcs-creator)](https://github.com/tudo75/vcs-creator)
 ## xed-restore-tabs-plugin
 [![xed-restore-tabs-plugin](https://github-readme-stats.vercel.app/api/pin/?username=tudo75&theme=darcula&repo=xed-restore-tabs-plugin)](https://github.com/tudo75/xed-restore-tabs-plugin)
 ## xed-plantuml-plugin
