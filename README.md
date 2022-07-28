@@ -16,7 +16,7 @@
 ## xed-codecomment-plugin
 [![xed-codecomment-plugin](https://github-readme-stats.vercel.app/api/pin/?username=tudo75&theme=darcula&repo=xed-codecomment-plugin)](https://github.com/tudo75/xed-codecomment-plugin)
 ## GPU Fan Control
-[![GPU Fan Control](https://github-readme-stats.vercel.app/api/pin/?username=tudo75&theme=darcula&repo=gpu-fan-control)](https://github.com/tudo75/pu-fan-control)
+[![GPU Fan Control](https://github-readme-stats.vercel.app/api/pin/?username=tudo75&theme=darcula&repo=gpu-fan-control)](https://github.com/tudo75/gpu-fan-control)
 ## json-mediainfo
 [![json-mediainfo](https://github-readme-stats.vercel.app/api/pin/?username=tudo75&theme=darcula&repo=json-mediainfo)](https://github.com/tudo75/json-mediainfo)
 
