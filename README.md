@@ -3,6 +3,8 @@
 </p>
 <h1 align=center>@tudo75</h1>
 
+## vThumb
+[![vThumb](https://github-readme-stats.vercel.app/api/pin/?username=tudo75&theme=darcula&repo=vthumb)](https://github.com/tudo75/vthumb)
 ## vcs-creator
 [![vcs-creator](https://github-readme-stats.vercel.app/api/pin/?username=tudo75&theme=darcula&repo=vcs-creator)](https://github.com/tudo75/vcs-creator)
 ## xed-restore-tabs-plugin
